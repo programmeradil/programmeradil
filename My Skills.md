@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Muhammad Adil
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Web Designing
